@@ -1,18 +1,20 @@
 # Sanchari
 [![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://Sanchari.io)
-<h1 align="center">Hi 👋, I'm Sanchari Karati</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sanchari</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchari-007&label=Profile%20views&color=0e75b6&style=flat" alt="sanchari-007" /> </p>
 
-- 🔭 I’m currently working on **Exercise Tracker**
+- 🔭 I’m currently working on ** a side project, an Exercise Tracker**
 
-- 🌱 I’m currently learning **JavaScript, Python, C++, Artificial Intelligence**
+- 🌱 I’m currently learning **JavaScript, Python, C++, DSA**
+  
+- 🔰 Domain : Frontend Development, Data Science & analytics
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 💬 Ask me about **Advance HTML-CSS, CSS animations, Python, Graphic Design**
+- 💬 Ask me about **C language, Advance HTML-CSS, CSS animations, Python, Graphic Design**
 
 - 📫 How to reach me **sancharik42000@gmail.com**
 
