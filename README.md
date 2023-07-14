@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Python, C++, DSA**
   
-- 🔰 Domain : **Frontend Development, Data Science & analytics**
+- 🔰 Domain : **Frontend Development, Data Science & Analyst**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
