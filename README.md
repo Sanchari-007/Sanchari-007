@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchari-007&label=Profile%20views&color=0e75b6&style=flat" alt="sanchari-007" /> </p>
 
-- 🔭 I’m currently working on ** a side project, an Exercise Tracker**
+- 🔭 I’m currently working on **a side project, an Exercise Tracker**
 
 - 🌱 I’m currently learning **JavaScript, Python, C++, DSA**
   
-- 🔰 Domain : Frontend Development, Data Science & analytics
+- 🔰 Domain : **Frontend Development, Data Science & analytics**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
