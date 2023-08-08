@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **sancharik42000@gmail.com**
 
-- Linkedin **https://www.linkedin.com/in/sanchari-karati?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOvPClaF%2BQI%2BvUHa2ZIMDgw%3D%3D**
-
 - ⚡ Fun fact **I'm an extroverted introvert.**
 
 <h3 align="left">Connect with me:</h3>
