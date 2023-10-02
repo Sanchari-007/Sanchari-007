@@ -1,10 +1,11 @@
 # Sanchari
-[![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://Sanchari.io)
+[![MasterHead]
+([https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630))](https://Sanchari.io)
 <h1 align="center">Hi 👋, I am Sanchari</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)">
+<img align="right" alt="Coding" width="400" src="[https://komarev.com/ghpvc/?username=sanchari-007&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif)">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sanchari-007&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif)" alt="sanchari-007" /> </p>
+<p align="left"> <img src="" alt="sanchari-007" /></p>
 
 
 # 💫 About Me:
