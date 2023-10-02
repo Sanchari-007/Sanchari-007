@@ -1,12 +1,8 @@
 # Sanchari
-[![MasterHead]
-([https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630))](https://Sanchari.io)
+[![MasterHead](https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg)](https://Sanchari.io)
 <h1 align="center">Hi 👋, I am Sanchari</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://komarev.com/ghpvc/?username=sanchari-007&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif)">
-
-<p align="left"> <img src="" alt="sanchari-007" /></p>
-
+<img align="right" alt="Coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on frontend development<br>👯 I’m looking to collaborate on innovative hackathons<br>🤝 I’m looking for help with developing the backend portions <br>🌱 I’m currently learning CSS & JS frameworks, Data Analytics<br>💬 Ask me about web dev, DSA, python<br>⚡ Fun fact - I'm lazy but smart
