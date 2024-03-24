@@ -1,7 +1,7 @@
 # Sanchari
 <h1 align="center">HELLO 👋, I am Sanchari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif](https://www.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#query=female%20programmer&position=6&from_view=keyword&track=ais&uuid=18e76f7a-ebf4-4ca9-a3f5-3feac538887a)">
+<img align="right" alt="Coding" width="400" src="[https://www.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#query=female%20programmer&position=6&from_view=keyword&track=ais&uuid=18e76f7a-ebf4-4ca9-a3f5-3feac538887a]">
 
 # 💫 About Me:
 // My Domains : Data Science & Analytics | GenAI | AI & ML | Web Development
