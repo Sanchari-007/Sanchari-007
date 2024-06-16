@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sanchari-007.sanchari-007" />
+
 
 <h1 align="center">
   <a herf="https://git.io/typing-svg">
@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma,vscode,github,jupyternotebook,powerbi,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma,vscode,github,jupyternotebook,powerbi" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,flask,git" /><br>
 </div>
 
 <br/>
@@ -43,13 +43,4 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sanchari-007/Sanchari-007/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+ 
