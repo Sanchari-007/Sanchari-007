@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma,vscode,github,jupyternotebook,powerbi" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma,vscode,github" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,flask,git,linux,aws,oracle" /><br>
 </div>
 
@@ -43,11 +43,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchari-007&show_icons=true&locale=en&layout=compact" alt="sanchari-007" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchari-007&show_icons=true&locale=en&layout=compact" alt="sanchari-007" />
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchari-007&show_icons=true&locale=en" alt="sanchari-007" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchari-007&show_icons=true&locale=en" alt="sanchari-007" />
 
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchari-007&" alt="sanchari-007" /></p>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchari-007&" alt="sanchari-007" /></p>
   
 <hr/>
  
