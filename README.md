@@ -1,10 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchari-007&label=Profile%20views&color=0e75b6&style=flat" alt="sanchari-007" /> </p>
 
-
 <h1 align="center">
   <a herf="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?
-    font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There+🦖;+I'm+Sanchari!;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There+🦖;+I'm+Sanchari!;"/>
   </a>
 </h1>
 
@@ -36,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma,vscode,github,jupyternotebook,powerbi" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,flask,git,linux,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,flask,git,linux,aws,oracle" /><br>
 </div>
 
 <br/>
@@ -49,7 +47,7 @@
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchari-007&show_icons=true&locale=en" alt="sanchari-007" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchari-007&" alt="sanchari-007" /></p>
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchari-007&" alt="sanchari-007" /></p>
   
 <hr/>
  
