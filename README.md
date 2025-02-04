@@ -10,7 +10,7 @@
 <br/>
 <div align="center">
   
-📌 I'm currently working on **some Deep Learning projects**
+📌 I'm currently working on **Deep Learning projects**
 
 🌱 I'm currently learning **Deep Learning (NLP Specialization)**
 
