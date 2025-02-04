@@ -6,15 +6,15 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate ReactJS Developer & Data Analyst 📊 from India</h3>
+<h3 align="center">A passionate Data Analyst & Machine Learning Engineer 📊 from India</h3>
 <br/>
 <div align="center">
   
-📌 I'm currently working on **some ML projects**
+📌 I'm currently working on **some Deep Learning projects**
 
-🌱 I'm currently learning **Java, Flask, Adv Python, MySQL, ML algorithms**
+🌱 I'm currently learning **Deep Learning (NLP Specialization)**
 
-💭 Ask me about **ReactJS, NextJS, TailwindCSS, Python, SQL, Data Analysis, Machine Learning**
+💭 Ask me about **Java, Python, SQL, Web Development, Data Analysis & Machine Learning**
 
 </div>
 
