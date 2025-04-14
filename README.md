@@ -6,15 +6,15 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate Web Developer 💻, Data & BI Analyst 📊 from India</h3>
+<h3 align="center">A passionate AI Software Development Engineer from India</h3>
 <br/>
 <div align="center">
   
-📌 I'm currently working on **Fullstack + AIML projects**
+📌 I'm currently working on **AI integrated production level Fullstack softwares**
 
 🌱 I'm currently learning **Natural Language Processing (Deep Learning)**
 
-💭 Ask me about **Python, SQL, MERN stack, Flask, PowerBI / Tableau**
+💭 Ask me about **Gen AI, Software Development, NLP, Business Intelligence**
 
 </div>
 
@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,flask,git,linux,aws,oracle" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,spring,mysql,flask,git,linux,aws" /><br>
 </div>
 
 <br/>
