@@ -10,7 +10,7 @@
 <br/>
 <div align="center">
   
-📌 I'm currently working on **AI integrated production level Fullstack softwares**
+📌 I'm currently working on **AI integrated production level Fullstack Softwares**
 
 🌱 I'm currently learning **Natural Language Processing (Deep Learning)**
 
