@@ -14,7 +14,7 @@
 
 🌱 I'm currently learning **Product Analytics, SaaS Metrics, and Machine Learning (NLP)**
 
-💭 Ask me about **Data Analytics, BI Tools, ML, or Data Storytelling**
+💭 Ask me about **Data Analytics, BI Tools, ML, or Data Visualization & Storytelling**
 
 </div>
 
