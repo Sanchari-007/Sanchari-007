@@ -6,15 +6,13 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate AI-Software Development Engineer & Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <br/>
 <div align="center">
   
-📌 I'm currently working on **AI-integrated Software Development Projects**
+🌱 I'm currently learning **SaaS Analytics, Business Intelligence, Cloud Infrastructure**
 
-🌱 I'm currently learning **Microservice Architecture based Distributed Systems, SaaS Metrics, and Machine Learning (NLP)**
-
-💭 Ask me about **Software Development, Data Analytics, Machine Learning, SaaS Metrics**
+💭 Ask me about **Data Analytics, Cloud, Business Intelligence**
 
 </div>
 
@@ -33,7 +31,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,figma,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,oracle,figma,vscode,github" />
     <img src="https://skillicons.dev/icons?i=python,java,supabase,mysql,spring,flask,git,linux,aws" /><br>
 </div>
 
