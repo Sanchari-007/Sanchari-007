@@ -12,7 +12,7 @@
   
 🌱 I'm currently learning **Marketing Analytics, Business Intelligence, Cloud Infrastructure**
 
-💭 Ask me about **Data Analytics & Business Intelligence**
+💭 Ask me about **Python Programming, SQL, Data Analytics & Business Intelligence**
 
 </div>
 
