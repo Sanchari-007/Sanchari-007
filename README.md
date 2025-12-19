@@ -10,9 +10,9 @@
 <br/>
 <div align="center">
   
-🌱 I'm currently learning **SaaS Analytics, Business Intelligence, Cloud Infrastructure**
+🌱 I'm currently learning **Marketing Analytics, Business Intelligence, Cloud Infrastructure**
 
-💭 Ask me about **Data Analytics, Cloud, Business Intelligence**
+💭 Ask me about **Data Analytics & Business Intelligence**
 
 </div>
 
