@@ -37,15 +37,3 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchari-007&show_icons=true&locale=en&layout=compact" alt="sanchari-007" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchari-007&show_icons=true&locale=en" alt="sanchari-007" /></p>
-
-<div/>
-<br/>
-<hr/>
- 
